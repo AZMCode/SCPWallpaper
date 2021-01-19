@@ -1,6 +1,0 @@
-{
-    "scripts": {
-        "build": "deno run --allow-net --allow-write getScpDb.ts",
-        "build-dbg": "deno run --inspect-brk --allow-net --allow-write getScpDb.ts"
-    }
-}

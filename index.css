@@ -50,6 +50,7 @@ body{
 #terminal{
     color:#b9b9b9;
     font-family:'Courier New', Courier, monospace;
+    word-break: break-all;
 }
 @keyframes slow-rotate{
     from{
