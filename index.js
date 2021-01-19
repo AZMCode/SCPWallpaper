@@ -1,5 +1,5 @@
 import delay from 'https://cdn.skypack.dev/delay';
-import * as scpDb from 'scpDb.json';
+import * as scpDb from './scpDb.json';
 
 const terminal = document.getElementById("terminal");
 const lineLimit = 100;
